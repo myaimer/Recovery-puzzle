@@ -1,0 +1,60 @@
+2019-06-21T01:15:10.254Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-21T01:15:10.258Z - normal: checking language setting...
+2019-06-21T01:15:10.258Z - normal: Language: zh
+2019-06-21T01:15:11.896Z - success: protocol editor-framework registered
+2019-06-21T01:15:11.897Z - success: protocol app registered
+2019-06-21T01:15:11.897Z - success: protocol theme registered
+2019-06-21T01:15:11.897Z - success: protocol packages registered
+2019-06-21T01:15:11.897Z - success: protocol unpack registerred
+2019-06-21T01:15:11.897Z - success: protocol disable-commonjs registerred
+2019-06-21T01:15:12.109Z - normal: connected!
+2019-06-21T01:15:12.115Z - normal: Check project D:\progrom\PuzzleGame
+2019-06-21T01:15:12.125Z - normal: Initializing project D:\progrom\PuzzleGame
+2019-06-21T01:15:12.127Z - normal: Initializing Cocos2d
+2019-06-21T01:15:12.854Z - normal: Initializing Asset Database
+2019-06-21T01:15:12.895Z - success: protocol uuid registerred
+2019-06-21T01:15:12.895Z - success: protocol db registerred
+2019-06-21T01:15:12.895Z - success: protocol thumbnail registerred
+2019-06-21T01:15:12.896Z - normal: Loading editor/builtin packages
+2019-06-21T01:15:13.045Z - success: assets loaded
+2019-06-21T01:15:13.048Z - success: builder loaded
+2019-06-21T01:15:13.050Z - success: cocos-analytics loaded
+2019-06-21T01:15:13.054Z - success: console loaded
+2019-06-21T01:15:13.093Z - success: fb-instant-games loaded
+2019-06-21T01:15:13.095Z - success: google-instant-games loaded
+2019-06-21T01:15:13.099Z - success: hierarchy loaded
+2019-06-21T01:15:13.101Z - success: inspector loaded
+2019-06-21T01:15:13.102Z - success: keystore loaded
+2019-06-21T01:15:13.106Z - success: node-library loaded
+2019-06-21T01:15:13.107Z - success: package-asset loaded
+2019-06-21T01:15:13.108Z - success: preferences loaded
+2019-06-21T01:15:13.110Z - success: project-exporter loaded
+2019-06-21T01:15:13.125Z - success: project-importer loaded
+2019-06-21T01:15:13.127Z - success: project-settings loaded
+2019-06-21T01:15:13.129Z - success: ui-kit loaded
+2019-06-21T01:15:13.131Z - success: scene loaded
+2019-06-21T01:15:13.132Z - success: sprite-editor loaded
+2019-06-21T01:15:13.135Z - success: store loaded
+2019-06-21T01:15:13.138Z - success: timeline loaded
+2019-06-21T01:15:13.138Z - normal: Loading builtin packages
+2019-06-21T01:15:13.140Z - success: asset-db-debugger loaded
+2019-06-21T01:15:13.142Z - success: code-editor loaded
+2019-06-21T01:15:13.142Z - success: color-picker loaded
+2019-06-21T01:15:13.229Z - success: google-play-instant loaded
+2019-06-21T01:15:13.231Z - success: jsb-adapter loaded
+2019-06-21T01:15:13.234Z - success: oppo-runtime loaded
+2019-06-21T01:15:13.236Z - success: package-manager loaded
+2019-06-21T01:15:13.333Z - success: qqplay-adapter loaded
+2019-06-21T01:15:13.337Z - success: sdkbox loaded
+2019-06-21T01:15:13.339Z - success: tester loaded
+2019-06-21T01:15:13.341Z - success: ui-grid loaded
+2019-06-21T01:15:13.342Z - success: ui-kit-preview-extra loaded
+2019-06-21T01:15:13.343Z - success: ui-kit-preview loaded
+2019-06-21T01:15:13.344Z - success: ui-tree loaded
+2019-06-21T01:15:13.347Z - success: vivo-runtime loaded
+2019-06-21T01:15:13.347Z - success: weapp-adapter loaded
+2019-06-21T01:15:14.435Z - normal: Loading packages
+2019-06-21T01:15:14.440Z - normal: Watching packages
+2019-06-21T01:15:14.720Z - normal: Run Application
+2019-06-21T01:15:15.067Z - success: preview server running at http://localhost:7456
+2019-06-21T01:21:52.519Z - info: shutdown preview server
